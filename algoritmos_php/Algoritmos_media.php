@@ -31,12 +31,12 @@
         <td>5</td>
         </tr>
         <tr>
-        <th scope="row">3</th>
+        <th scope="row">4</th>
         <td>Sociales</td>
         <td>4.5</td>
         </tr>
         <tr>
-        <th scope="row">3</th>
+        <th scope="row">5</th>
         <td>Ciemcias</td>
         <td>3</td>
         </tr>
