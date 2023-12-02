@@ -1,0 +1,15 @@
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\bin\Debug\net8.0\Algoritmos_media.exe
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\bin\Debug\net8.0\Algoritmos_media.deps.json
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\bin\Debug\net8.0\Algoritmos_media.runtimeconfig.json
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\bin\Debug\net8.0\Algoritmos_media.dll
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\bin\Debug\net8.0\Algoritmos_media.pdb
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.AssemblyInfoInputs.cache
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.AssemblyInfo.cs
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.csproj.CoreCompileInputs.cache
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.sourcelink.json
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.dll
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\refint\Algoritmos_media.dll
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.pdb
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\Algoritmos_media.genruntimeconfig.cache
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_media\obj\Debug\net8.0\ref\Algoritmos_media.dll

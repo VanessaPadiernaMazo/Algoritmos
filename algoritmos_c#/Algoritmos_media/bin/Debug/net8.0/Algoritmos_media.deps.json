@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Algoritmos_media/1.0.0": {
+        "runtime": {
+          "Algoritmos_media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritmos_media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

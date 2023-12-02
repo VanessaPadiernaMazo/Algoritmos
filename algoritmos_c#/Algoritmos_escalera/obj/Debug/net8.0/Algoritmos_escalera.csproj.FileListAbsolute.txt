@@ -1,0 +1,15 @@
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\bin\Debug\net8.0\Algoritmos_escalera.exe
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\bin\Debug\net8.0\Algoritmos_escalera.deps.json
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\bin\Debug\net8.0\Algoritmos_escalera.runtimeconfig.json
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\bin\Debug\net8.0\Algoritmos_escalera.dll
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\bin\Debug\net8.0\Algoritmos_escalera.pdb
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.AssemblyInfoInputs.cache
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.AssemblyInfo.cs
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.csproj.CoreCompileInputs.cache
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.sourcelink.json
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.dll
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\refint\Algoritmos_escalera.dll
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.pdb
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\Algoritmos_escalera.genruntimeconfig.cache
+C:\wamp64\www\trabajo_personal\Algoritmos\algoritmos_c#\Algoritmos_escalera\obj\Debug\net8.0\ref\Algoritmos_escalera.dll

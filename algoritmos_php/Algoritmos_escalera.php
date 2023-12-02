@@ -32,7 +32,7 @@ if (isset($_POST['enviarB'])){
 
 if (isset($_POST['enviarC'])){
   $n = $_POST['numero'];
-  // Imprimir la mitad inferior del diamante
+  // Imprimir la mitad superior del diamante
   for ($i = $n; $i >= 1; $i--) {
     // Imprimir espacios en blanco
     for ($x = 1; $x < $i; $x++) {
